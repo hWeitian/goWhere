@@ -69,5 +69,5 @@ npm start
 
 ## Contributors
 
-- [Me, Shawn](https://github.com/shawn-goh24)
+- [Shawn Goh](https://github.com/shawn-goh24)
 - [Huang Weitian](https://github.com/hWeitian)
